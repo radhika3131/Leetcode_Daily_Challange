@@ -9,3 +9,4 @@
 |     86        |            [Partition List ](https://leetcode.com/problems/partition-list/)                                           |      Java         |
 |     1743      | [Restore the array from adjacent pair](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)          |     Java          |
 |     1561      | [ Maximum number of coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)            |     Java          |
+|     1685      | [ Sum of Absolute Difference in sorted array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) |  Java       |
