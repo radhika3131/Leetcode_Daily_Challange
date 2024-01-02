@@ -11,4 +11,5 @@
 |     1561      | [ Maximum number of coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)            |     Java          |
 |     1685      | [ Sum of Absolute Difference in sorted array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) |  Java       |
 |     1558      | [Minimum time to make rope colorfully](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)             |     Java          |
-|     1531      | [String Compression 2 ](https://leetcode.com/problems/string-compression-ii/)                                         |     Java          |
+|     1531      | [String Compression 2 ](https://leetcode.com/problems/string-compression-ii/)                                          |     Java          |
+ 
